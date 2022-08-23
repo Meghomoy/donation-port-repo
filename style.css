@@ -83,6 +83,7 @@ hr {
 }
 
 .members {
+    background-color: rgb(195, 195, 228);
     text-align: center;
 }
 
@@ -123,7 +124,7 @@ hr {
 }
 
 .subscribe-button {
-    background-color: rgb(233, 200, 158);
+    background-color: rgb(216, 199, 176);
     padding: 50px 10px;
 
 }
